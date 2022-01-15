@@ -14,4 +14,19 @@
 
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manv3ndra&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manv3ndra&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Manv3ndra&theme=dark)
+
+## Technologies I use:
+ <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+ <img src="https://img.icons8.com/color/48/000000/python.png"/>
+ <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+ <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
+ 
+## Connect with me :
+<p align="center">
+<a href="https://twitter.com/manvendra2702"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
+<a href="https://www.linkedin.com/in/manvendra-prasad-38b1781b7/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
+<a href="https://www.instagram.com/_manvendra_prasad_/"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
+</p>
