@@ -14,9 +14,9 @@
 
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manv3ndra&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manv3ndra&theme=aura)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Manv3ndra&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Manv3ndra&theme=aura)
 
 ## Technologies I use:
  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/48/000000/python.png"/> <img src="https://img.icons8.com/fluent/48/000000/github.png"/> <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
