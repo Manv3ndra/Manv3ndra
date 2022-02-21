@@ -10,7 +10,6 @@
 - ⚡️ Interests - UI/UX Designing, Automation
 - 🍪 Side hobby - Designing/Logo making, NFTs, Gaming
 - 📫 How to reach me: abhiaps2702@gmail.com
-- 😄 Pronouns: He/Him
 
 <br>
 
