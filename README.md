@@ -9,7 +9,7 @@
 - 🤔 I’m looking for help with - Data Structures and Algorithms, Frontend Development
 - ⚡️ Interests - UI/UX Designing, Automation
 - 🍪 Side hobby - Designing/Logo making, NFTs, Gaming
-- 📫 How to reach me: abhiaps2702@gmail.com
+- 📫 How to reach me: manvendraprasad@hotmail.com
 
 <br>
 
